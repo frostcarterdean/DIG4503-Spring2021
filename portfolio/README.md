@@ -1,3 +1,4 @@
+<h1>Image downloader and .webp converter</h1>
 Paste an image URL to download an image and create a .webp copy.
 
 Alternatively, paste location of local image file to just make a .webp copy.
