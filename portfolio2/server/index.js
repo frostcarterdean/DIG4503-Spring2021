@@ -1,9 +1,3 @@
-// PUT (X)
-// GET (X)
-// POST 
-// PATCH (X)
-// DELETE (X)
-
 import CORS from 'cors';
 import Express from 'express';
 import Database from './Database.js';
